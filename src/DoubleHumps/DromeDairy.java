@@ -6,5 +6,6 @@ public class DromeDairy
     main (String[] args)
   {
     System.out.println ("Hello, GitHive!");
+    System.out.println ("Goodbye!");
   } // main(String[])
 }
